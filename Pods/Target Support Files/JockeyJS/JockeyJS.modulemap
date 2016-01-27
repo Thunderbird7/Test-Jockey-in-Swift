@@ -1,0 +1,6 @@
+framework module JockeyJS {
+  umbrella header "JockeyJS-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,10 @@
+PODS:
+  - JockeyJS (1.0.0)
+
+DEPENDENCIES:
+  - JockeyJS
+
+SPEC CHECKSUMS:
+  JockeyJS: 1ddd9d748ef8f59ceb4a8e8de3b19c49328b678b
+
+COCOAPODS: 0.39.0
